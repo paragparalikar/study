@@ -9,3 +9,11 @@
 6. Volatility squeeze
 7. Price rejection test/spring
 8. Entry bar
+
+
+In above strategy, below aspects are covered
+1. Momentum
+2. Divergence
+3. Trends
+4. Support
+5. Volatility
