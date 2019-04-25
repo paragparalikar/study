@@ -29,5 +29,11 @@
  1. Break of latest intermediate downtrend
  2. Break of current short term accumulation/consolidation
     Break of downtrend of second leg of short term double bottom
- 
+    
+ ## Practical checklist for short term trading
+ 1. Positive momentum delta
+ 2. Downtrend has been broken
+ 3. Volatility is decreased
+ 4. Spring/Test has occured
+
 
