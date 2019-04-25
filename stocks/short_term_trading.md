@@ -5,11 +5,12 @@
 2. Positive momentum delta
 3. Shortening of bearish thrust - This should create divergence
 4. Downward price rejection     - This should create pin bars
-5. Downtrend broken
-6. Volatility squeeze
-7. Downtrend of base broken
-8. Price rejection test/spring
-9. Entry bar
+5. HTF support (daily chart)
+6. Downtrend broken
+7. Volatility squeeze
+8. Downtrend of base broken
+9. Price rejection test/spring
+10. Entry bar
 
 
 In above strategy, below aspects are covered
