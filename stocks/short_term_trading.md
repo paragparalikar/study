@@ -7,8 +7,9 @@
 4. Downward price rejection     - This should create pin bars
 5. Downtrend broken
 6. Volatility squeeze
-7. Price rejection test/spring
-8. Entry bar
+7. Downtrend of base broken
+8. Price rejection test/spring
+9. Entry bar
 
 
 In above strategy, below aspects are covered
