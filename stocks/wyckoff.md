@@ -1,6 +1,26 @@
 ## Practical Observations  
- 1. Prices cyclic in nature
- 2. Prices are fractal in nature
+ 1. 4 diamentions of charts - price, time, volume, volatility
+ 2. Prices cyclic in nature
+ 3. Prices are fractal in nature
+ 
+ preliminary support
+	exhaustion move
+	price rejection
+	volume climaxes
+	dry moves
+	Overshoots and undershoots
+	Jumps
+	Resistance line with secondary peaks
+	Support line
+	No supply shakeouts (THE biggest bullish indicator)
+	Springs and Tests
+	Volatility cycles, volatility squeeze and median line
+	Very high volume up moves and high momentum down moves showing supply
+
+	congestion zones as support/resistance
+	flag measured move as reversal pre-conditions
+	volume difference(drying volume as decreasing supply)
+	Breakouts
 
 ## Wyckoffian Theory
  1. Prices move because of imbalance in demand and supply
