@@ -56,3 +56,6 @@ In above strategy, below aspects are covered
 3. Trends
 4. Support
 5. Volatility
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExMTkxNzY3NTVdfQ==
+-->
