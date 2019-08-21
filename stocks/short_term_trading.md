@@ -1,12 +1,21 @@
 ## Aspects for short term trading
 
-1. Higher term trend
-2. Oversold level
-3. Price rejection
-4. Divergences
-5. Volatility squeeze
-6. Spring/Test
-7. Entry bar
+1. Higher term trend - higher and super-higher term conincide, ie weekly and daily is up, then trade long on hourly
+2. Momentum delta
+3. Oversold level
+4. Price rejection
+5. Divergences
+6. Volatility squeeze
+7. Support/Resistence
+8. Spring/Test
+9. Entry bar
+
+
+Trend: Moving Averages, Aroon
+Occilators: RSI, Stochastics, MACD
+Volume: OBV
+Volatility: ATR, Bollinger Bands width
+
 
 ## Mean reversion for options trading
 
@@ -15,6 +24,15 @@
 ### Consolidation breakout strategy
 
 ### Bull flag strategy
+Flag pole is not part of the dry move
+Flag pole buying climax is not terminal
+Flag down momentum is lower than flag pole up momentum
+Flag has reached 50% of flag pole / flag width has become praportionate with flag pole height
+Bear flag within flag part has been seen
+Bear flag within flag part starts with price rejection
+At a support level(congestion zones, price rejections, mid of push) a consolidation, 
+Head & shoulders / double/triple bottom / consolidation is formed 
+For big re-accumulations, a shakeout or spring should be used for entry
 
 
 
