@@ -3,24 +3,24 @@
  2. Prices cyclic in nature
  3. Prices are fractal in nature
  
- preliminary support
-	exhaustion move
-	price rejection
-	volume climaxes
-	dry moves
-	Overshoots and undershoots
-	Jumps
-	Resistance line with secondary peaks
-	Support line
-	No supply shakeouts (THE biggest bullish indicator)
-	Springs and Tests
-	Volatility cycles, volatility squeeze and median line
-	Very high volume up moves and high momentum down moves showing supply
+1. preliminary support
+2. exhaustion move
+3. price rejection
+4. volume climaxes
+5. dry moves
+6. Overshoots and undershoots
+7. Jumps
+8. Resistance line with secondary peaks
+9. Support line
+10. No supply shakeouts (THE biggest bullish indicator)
+11. Springs and Tests
+12. Volatility cycles, volatility squeeze and median line
+13. Very high volume up moves and high momentum down moves showing supply
 
-	congestion zones as support/resistance
-	flag measured move as reversal pre-conditions
-	volume difference(drying volume as decreasing supply)
-	Breakouts
+14. congestion zones as support/resistance
+15. flag measured move as reversal pre-conditions
+16. volume difference(drying volume as decreasing supply)
+17. Breakouts
 
 ## Wyckoffian Theory
  1. Prices move because of imbalance in demand and supply
