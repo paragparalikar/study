@@ -1,3 +1,13 @@
+## Aspects for short term trading
+
+1. Higher term trend
+2. Oversold level
+3. Price rejection
+4. Divergences
+5. Volatility squeeze
+6. Spring/Test
+7. Entry bar
+
 ## Mean reversion for options trading
 
 ### Bollinger bands strategy
