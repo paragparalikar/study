@@ -1,5 +1,14 @@
 ## Mean reversion for options trading
 
+### Bollinger bands strategy
+
+### Consolidation breakout strategy
+
+### Bull flag strategy
+
+
+
+
 ### Buy call option when,
 1. Oversold
 2. Positive momentum delta
