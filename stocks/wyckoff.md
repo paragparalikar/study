@@ -9,7 +9,7 @@
 4. volume climaxes
 5. dry moves
 6. Spikes - Overshoots and undershoots
-7. Pushes - Push ups and Push downs
+7. Pushes - Push ups and Push downs (while crossing real support/resistence levels)
 7. Jumps
 8. Resistance line with secondary peaks
 9. Support line
