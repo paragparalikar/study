@@ -8,7 +8,8 @@
 3. price rejection
 4. volume climaxes
 5. dry moves
-6. Overshoots and undershoots
+6. Spikes - Overshoots and undershoots
+7. Pushes - Push ups and Push downs
 7. Jumps
 8. Resistance line with secondary peaks
 9. Support line
