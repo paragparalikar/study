@@ -30,6 +30,15 @@ Volatility: ATR, Bollinger Bands width
 8. Spring/Test on 5 min chart
 9. squeeze-break bar on 5 min chart
 
+## Trend based strategy for options trading
+1. exhaustion move
+2. volume climax
+3. price rejection
+4. primary trend break
+5. local level break
+6. secondary trend break
+
+
 ## Mean reversion for options trading
 
 ### Bollinger bands strategy
