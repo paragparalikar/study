@@ -78,6 +78,15 @@ In above strategy, below aspects are covered
 3. Trends
 4. Support
 5. Volatility
+
+### Buy put option when,
+1. Overbought 
+2. Buying climax in volume
+3. Price rejection
+4. Loss of momentum on next leg up ie negative momentum delta
+5. Weak trend support break down
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExMTkxNzY3NTVdfQ==
 -->
