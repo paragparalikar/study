@@ -30,7 +30,7 @@ Occilators: RSI, Stochastics, MACD
 Volume: OBV
 Volatility: ATR, Bollinger Bands width
 
-## Support long strategy
+## Support
 __Options__ / __Bullish__  / __Short Term__
 1. Uptrend on daily chart
 2. Positive momentum delta on daily timeframe
@@ -44,7 +44,7 @@ __Options__ / __Bullish__  / __Short Term__
 
 
 
-## Climax - Support break shorting strategy
+## Climax - Support break
 __Options__ / __Bearish__  / __Short Term__
 1. Daily chart - Overbought region (Bollinger, RSI)
 2. Daily chart - Exhaustion move (Uptrend line) - This is also means overbought region
@@ -52,7 +52,7 @@ __Options__ / __Bearish__  / __Short Term__
 4. Daily chart - Divergence (Bollinger, RSI) - Preferable but Optional in case of very clear Buying climax (Switch to hourly chart next day)
 5. Hourly chart - Weak uptrend broken
 
-## Squeeze - Resistance break long strategy
+## Squeeze - Resistance break
 __Equity__ / __Bullish__ / __Medium Term__
 1. Positive momentum delta
 2. Uptrend in higher timeframe
@@ -60,5 +60,6 @@ __Equity__ / __Bullish__ / __Medium Term__
 4. Low volatility ie squeeze (Low standard deviation) close to the weak down trend line
 5. Breakout bar with that closes out of downtrend line resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA1OTcyNTMsODIzMjI1MTA3XX0=
+eyJoaXN0b3J5IjpbMTUzMDcxNjYzMCwtMTgyMDU5NzI1Myw4Mj
+MyMjUxMDddfQ==
 -->
