@@ -64,8 +64,8 @@ __Equity__ / __Bullish__ / __Medium Term__
 __Equity__ / __Bullish__ / __Medium Term__
 1. Uptrend on daily chart
 2. Flag pole high does not show buying climax of entire uptrend
-3. Flag end touches 
+3. Flag end fills runway gaps. Flag end overlaps the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mzg4NywtMTgyMDU5NzI1Myw4MjMyMj
-UxMDddfQ==
+eyJoaXN0b3J5IjpbOTk3Mjc0NjAzLC0xODIwNTk3MjUzLDgyMz
+IyNTEwN119
 -->
