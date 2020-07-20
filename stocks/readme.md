@@ -30,6 +30,20 @@ Occilators: RSI, Stochastics, MACD
 Volume: OBV
 Volatility: ATR, Bollinger Bands width
 
+## Support long strategy
+__Options__ / __Bullish__  / __Short Term__
+1. Uptrend on daily chart
+2. Positive momentum delta on daily timeframe
+3. Support on daily timeframe -> Ref to details for how to determine support on daily charts
+4. Preliminary support on 30 min chart
+5. Price rejection on 30 mins chart
+6. Positive momentum delta on 30 min chart
+7. Volatility crunch on 5 min chart
+8. Spring/Test on 5 min chart
+9. squeeze-break bar on 5 min chart
+
+
+
 ## Climax - Support break shorting strategy
 __Options__ / __Bearish__  / __Short Term__
 1. Daily chart - Overbought region (Bollinger, RSI)
@@ -46,5 +60,5 @@ __Equity__ / __Bullish__ / __Medium Term__
 4. Low volatility ie squeeze (Low standard deviation) close to the weak down trend line
 5. Breakout bar with that closes out of downtrend line resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjc2OTc2OSw4MjMyMjUxMDddfQ==
+eyJoaXN0b3J5IjpbLTE4MjA1OTcyNTMsODIzMjI1MTA3XX0=
 -->
