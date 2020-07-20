@@ -59,7 +59,11 @@ __Equity__ / __Bullish__ / __Medium Term__
 3. Weak intermediate down trend line (using spike with overshoots)
 4. Low volatility ie squeeze (Low standard deviation) close to the weak down trend line
 5. Breakout bar with that closes out of downtrend line resistance
+
+## Bull Flag
+__Equity__ / __Bullish__ / __Medium Term__
+1. Uptrend on daily chart
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDcxNjYzMCwtMTgyMDU5NzI1Myw4Mj
-MyMjUxMDddfQ==
+eyJoaXN0b3J5IjpbLTE4Mjg2MTQxMzEsLTE4MjA1OTcyNTMsOD
+IzMjI1MTA3XX0=
 -->
