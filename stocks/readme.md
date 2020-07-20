@@ -39,6 +39,12 @@ __Options__ / __Bearish__  / __Short Term__
 5. Hourly chart - Weak uptrend broken
 
 ## Squeeze - Resistance break long strategy
+__Equity__ / __Bullish__ / __Medium Term__
+1. Positive momentum delta
+2. Uptrend in higher timeframe
+3. Weak intermediate down trend line (using spike with overshoots)
+4. Low volatility ie squeeze (Low standard deviation) close to the weak down trend line
+5. Breakout bar with that closes out of downtrend line resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjQ4NDAwNSw4MjMyMjUxMDddfQ==
+eyJoaXN0b3J5IjpbLTYzMjc2OTc2OSw4MjMyMjUxMDddfQ==
 -->
