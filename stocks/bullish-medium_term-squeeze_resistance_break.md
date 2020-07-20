@@ -1,4 +1,5 @@
-##Bullish Squeeze - Resistance - Break trading strategy   
+## Bullish Squeeze - Resistance - Break trading strategy   
+
 1. Positive momentum delta
 2. Uptrend in higher timeframe
 3. Weak intermediate down trend line (using spike with overshoots)
