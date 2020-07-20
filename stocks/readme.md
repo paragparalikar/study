@@ -63,7 +63,9 @@ __Equity__ / __Bullish__ / __Medium Term__
 ## Bull Flag
 __Equity__ / __Bullish__ / __Medium Term__
 1. Uptrend on daily chart
+2. Flag pole high does not show buying climax of uptrend
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg2MTQxMzEsLTE4MjA1OTcyNTMsOD
-IzMjI1MTA3XX0=
+eyJoaXN0b3J5IjpbMjY3OTI2Mjg0LC0xODIwNTk3MjUzLDgyMz
+IyNTEwN119
 -->
