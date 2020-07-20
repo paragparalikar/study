@@ -64,8 +64,8 @@ __Equity__ / __Bullish__ / __Medium Term__
 __Equity__ / __Bullish__ / __Medium Term__
 1. Uptrend on daily chart
 2. Flag pole high does not show buying climax of entire uptrend
-3. Flag end fills runway gaps. Flag end overlaps the 
+3. Flag end fills runway gaps. Flag end overlaps the long spread bars with high volume. These bars can internally have runway gaps. Both of these entities ie runway gaps and strong up bars represent the same principle of extremely strong move. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3Mjc0NjAzLC0xODIwNTk3MjUzLDgyMz
-IyNTEwN119
+eyJoaXN0b3J5IjpbLTE3ODQ1MjIyNzEsLTE4MjA1OTcyNTMsOD
+IzMjI1MTA3XX0=
 -->
