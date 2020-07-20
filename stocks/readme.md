@@ -30,7 +30,10 @@ Occilators: RSI, Stochastics, MACD
 Volume: OBV
 Volatility: ATR, Bollinger Bands width
 
-## 
+## Climax - Support break strategy
+__Bearish__
+__Short Term__
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTYzMzc2MF19
+eyJoaXN0b3J5IjpbLTIwOTg5NjkxNzVdfQ==
 -->
