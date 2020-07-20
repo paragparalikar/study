@@ -29,3 +29,6 @@ Trend: Moving Averages, Aroon
 Occilators: RSI, Stochastics, MACD
 Volume: OBV
 Volatility: ATR, Bollinger Bands width
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc1MDY1NjIyOV19
+-->
