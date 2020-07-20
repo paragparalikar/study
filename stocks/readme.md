@@ -55,7 +55,7 @@ __Options__ / __Bearish__  / __Short Term__
 ## Squeeze - Resistance break
 __Equity__ / __Bullish__ / __Medium Term__
 1. Positive momentum delta
-2. Uptrend in higher timeframe
+2. Uptrend in higher time frame
 3. Weak intermediate down trend line (using spike with overshoots)
 4. Low volatility ie squeeze (Low standard deviation) close to the weak down trend line
 5. Breakout bar with that closes out of downtrend line resistance
@@ -64,8 +64,8 @@ __Equity__ / __Bullish__ / __Medium Term__
 __Equity__ / __Bullish__ / __Medium Term__
 1. Uptrend on daily chart
 2. Flag pole high does not show buying climax of entire uptrend
-3. 
+3. Flag end touches 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4MzkzOTExLC0xODIwNTk3MjUzLDgyMz
-IyNTEwN119
+eyJoaXN0b3J5IjpbLTU4Mzg4NywtMTgyMDU5NzI1Myw4MjMyMj
+UxMDddfQ==
 -->
