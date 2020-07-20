@@ -33,10 +33,10 @@ Volatility: ATR, Bollinger Bands width
 ## Climax - Support break strategy
 __Options__ / __Bearish__  / __Short Term__
 1. Daily chart - Overbought region (Bollinger, RSI)
-2. Daily chart - Exhaustion move (Uptrend line) - This is just another version of extereame overbought region
+2. Daily chart - Exhaustion move (Uptrend line) - This is also means overbought region
 3. Daily chart - Buying climax with very high volume
 4. Daily chart - Divergence (Bollinger, RSI) - Preferable but Optional in case of very clear Buying climax (Switch to hourly chart next day)
 5. Hourly chart - Weak uptrend broken
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMTA5Mzk2XX0=
+eyJoaXN0b3J5IjpbOTU2ODY2OTgzXX0=
 -->
