@@ -1,7 +1,7 @@
-## How to draw a "real" resistanc/support line (not a trend line) ? 
+## How to draw a "real" resistance/support line (not a trend line) ? 
 It has been practically and consistently seen that the traditional method of drawing support/resistance lines is deeply flawed.  
 Traditionally resistance line is drawn by connecting two or more highest highs, such that there is no price beyond the resistance line.  
-Thought process behind drawing resistnace line this way is that if price goes beyond this line, it could be treated as break of this line.  
+Thought process behind drawing resistance line this way is that if price goes beyond this line, it could be treated as break of this line.  
 But if we take breakouts this way it is too late to enter. Most of our profits have been evaporated and stop loss is too far away to have a reasonable RR ratio. 
 Hence after observing multiple charts below method of drawing resistance line is being adopted:
 
@@ -30,5 +30,5 @@ Occilators: RSI, Stochastics, MACD
 Volume: OBV
 Volatility: ATR, Bollinger Bands width
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDY1NjIyOV19
+eyJoaXN0b3J5IjpbMTY2OTExMzk0NF19
 -->
