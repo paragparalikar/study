@@ -33,7 +33,8 @@ Hence after observing multiple charts below method of drawing resistance line is
 ## Flag
 __Equity__ / __Bullish__ / __Medium Term__
 1. Accumulation in the background
-2. 
+2. Trend line / Moving average support (Moving average span is bar count since flag pole start)
+3. Resistance line identified and broke
 
 
 ## Support
@@ -73,6 +74,6 @@ __Equity__ / __Bullish__ / __Medium Term__
 3. Flag end fills runway gaps. Flag end overlaps the long spread bars with high volume. These bars can internally have runway gaps. Both of these entities ie runway gaps and strong up bars represent the same principle of extremely strong move. 
 4. Flag end coincides with simple moving average. Span of this SMA is difference between flag pole start and flag end. This is flag version of squeeze ie low volatility. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTU0MDA3OCwtOTA1Njg2MDksLTE4Mj
-A1OTcyNTMsODIzMjI1MTA3XX0=
+eyJoaXN0b3J5IjpbODI1MDU2MjgzLC05MDU2ODYwOSwtMTgyMD
+U5NzI1Myw4MjMyMjUxMDddfQ==
 -->
