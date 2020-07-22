@@ -30,6 +30,8 @@ Hence after observing multiple charts below method of drawing resistance line is
 * Volume: OBV
 * Volatility: ATR, Bollinger Bands width, VIX
 
+## Flag
+__Equity__ / __Bullish__ / __Medium Term__
 
 
 
@@ -70,6 +72,6 @@ __Equity__ / __Bullish__ / __Medium Term__
 3. Flag end fills runway gaps. Flag end overlaps the long spread bars with high volume. These bars can internally have runway gaps. Both of these entities ie runway gaps and strong up bars represent the same principle of extremely strong move. 
 4. Flag end coincides with simple moving average. Span of this SMA is difference between flag pole start and flag end. This is flag version of squeeze ie low volatility. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTM4MjMxLC05MDU2ODYwOSwtMTgyMD
-U5NzI1Myw4MjMyMjUxMDddfQ==
+eyJoaXN0b3J5IjpbMzMxNjU4NTIsLTkwNTY4NjA5LC0xODIwNT
+k3MjUzLDgyMzIyNTEwN119
 -->
