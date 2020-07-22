@@ -17,12 +17,13 @@ Hence after observing multiple charts below method of drawing resistance line is
 1. Higher term trend
 2. Momentum delta
 3. Oversold level
-4. Price rejection
-5. Divergences
-6. Volatility squeeze
-7. Support/Resistence
-8. Spring/Test
-9. Entry bar
+4. Exhaustion move
+5. Price rejection
+6. Divergences
+7. Volatility squeeze
+8. Support/Resistence
+9. Spring/Test
+10. Entry bar
 
 ## Indicators for different use cases
 * Trend: Trend lines, Moving Averages, Aroon
@@ -74,6 +75,6 @@ __Equity__ / __Bullish__ / __Medium Term__
 3. Flag end fills runway gaps. Flag end overlaps the long spread bars with high volume. These bars can internally have runway gaps. Both of these entities ie runway gaps and strong up bars represent the same principle of extremely strong move. 
 4. Flag end coincides with simple moving average. Span of this SMA is difference between flag pole start and flag end. This is flag version of squeeze ie low volatility. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDA1MDk5NiwtOTA1Njg2MDksLTE4Mj
-A1OTcyNTMsODIzMjI1MTA3XX0=
+eyJoaXN0b3J5IjpbLTE2MTc1MDIwOCwxOTI0MDUwOTk2LC05MD
+U2ODYwOSwtMTgyMDU5NzI1Myw4MjMyMjUxMDddfQ==
 -->
