@@ -75,6 +75,8 @@ __Equity__ / __Bullish__ / __Medium Term__
 3. Flag end fills runway gaps. Flag end overlaps the long spread bars with high volume. These bars can internally have runway gaps. Both of these entities ie runway gaps and strong up bars represent the same principle of extremely strong move. 
 4. Flag end coincides with simple moving average. Span of this SMA is difference between flag pole start and flag end. This is flag version of squeeze ie low volatility. 
 
+## Bull Flag
+__Equity__ / __Bullish__ / __Medium Term__
 1. Positive momentum delta
 2. Flag retraces more than 25% of flag pole
 3. Support at measured move of internal bear flat - very importent
