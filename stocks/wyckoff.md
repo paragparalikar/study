@@ -56,6 +56,9 @@
  2. Downtrend has been broken
  3. Volatility is decreased
  4. Spring/Test has occured
+ 
+## Verify start of accumulation (ie ensure downward target reached)
+Bear flag measured move in down trend
 
 ## Methods of predicting end of accumulation:
 1. Horizontal count for W shape. Projection of count from start to sharpest down move which is start of W - from sharpest up move which is end of W. Think of this as inverted head and shoulders pattern. We are calculating shoulders here and expecting to be equal in time.
