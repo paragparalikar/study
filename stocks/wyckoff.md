@@ -57,4 +57,8 @@
  3. Volatility is decreased
  4. Spring/Test has occured
 
-
+## Methods of predicting end of accumulation:
+1. Horizontal count for W shape. Projection of count from start to sharpest down move which is start of W - from sharpest up move which is end of W. Think of this as inverted head and shoulders pattern. We are calculating shoulders here and expecting to be equal in time.
+2. Find point of least volatility ie center of crunch. After this point volatility will expand. There will be an upward test and then a downward test which we call spring.
+3. After W shape is completed, Drop to lower time frame ie daily. Look for a clear support for low volatility trading range. A below this support is buy point.
+4. Crunch support and resistance lines. If crunch becomes shorter than spread, up move will start.
